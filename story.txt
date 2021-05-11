@@ -1,2 +1,3 @@
 (insert character) starts working an office job
-maybe lebron
+maybe patrick
+add more characters
